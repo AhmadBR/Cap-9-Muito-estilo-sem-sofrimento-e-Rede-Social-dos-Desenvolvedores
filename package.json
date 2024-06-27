@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@floating-ui/dom": "^1.6.5",
+    "bootstrap-icons": "^1.11.3",
+    "fund": "^1.0.0"
+  }
+}
